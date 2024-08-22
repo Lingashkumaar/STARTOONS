@@ -1,0 +1,68 @@
+[
+    {
+      "name": "S. Meena",
+      "gender": "F",
+      "age": 23,
+      "patientId": "B7 20200727153457",
+      "phone": "8022334455",
+      "email": "meenarabinsachin2@gmail.com",
+      "affectedSide": "Bilateral",
+      "condition": "Ortho",
+      "speciality": "Osteoarthritis",
+      "medicalHistory": "Hypertension, DM, Hypothyroidism",
+      "goalReached": 40
+    },
+    {
+      "name": "R. Kumar",
+      "gender": "M",
+      "age": 45,
+      "patientId": "A9 20190523124512",
+      "phone": "9123456789",
+      "email": "rkumar@example.com",
+      "affectedSide": "Right",
+      "condition": "Neurology",
+      "speciality": "Stroke Rehabilitation",
+      "medicalHistory": "Diabetes, High Cholesterol",
+      "goalReached": 60
+    },
+    {
+      "name": "A. Singh",
+      "gender": "M",
+      "age": 32,
+      "patientId": "C4 20180615090543",
+      "phone": "9876543210",
+      "email": "asingh@example.com",
+      "affectedSide": "Left",
+      "condition": "Cardiology",
+      "speciality": "Post-Heart Surgery Recovery",
+      "medicalHistory": "Hypertension, Asthma",
+      "goalReached": 75
+    },
+    {
+      "name": "P. Nair",
+      "gender": "F",
+      "age": 29,
+      "patientId": "D5 20190218124321",
+      "phone": "9012345678",
+      "email": "pnair@example.com",
+      "affectedSide": "Right",
+      "condition": "Orthopedics",
+      "speciality": "Fracture Healing",
+      "medicalHistory": "None",
+      "goalReached": 85
+    },
+    {
+      "name": "V. Iyer",
+      "gender": "M",
+      "age": 60,
+      "patientId": "E3 20200110181234",
+      "phone": "8102345678",
+      "email": "viyer@example.com",
+      "affectedSide": "Bilateral",
+      "condition": "Geriatrics",
+      "speciality": "Age-Related Mobility Issues",
+      "medicalHistory": "Hypertension, Osteoporosis",
+      "goalReached": 50
+    }
+  ]
+  
